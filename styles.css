@@ -1,0 +1,24 @@
+body 
+{
+  font-family: papyrus;
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+header 
+{
+  background-color:#FFD700;
+  color: #333;
+  padding: 1rem;
+  text-align:center;
+}
+a {color: #333;}
+main {padding: 2rem;}
+footer 
+{
+  text-align: center;
+  padding: 1rem;
+  background-color: #FFD700;
+  color: #333;
+}
